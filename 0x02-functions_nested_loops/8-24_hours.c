@@ -2,7 +2,7 @@
 
 /**
  * jack_bauer - func that prints every minute of the day of
-Jack Bauer, starting 
+ * Jack Bauer, starting 
  * from 00:00 t0 23:59, min loop counts mins, while hour loop
  * counts hours and resets mins
  * Return: 0
