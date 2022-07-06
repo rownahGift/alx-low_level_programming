@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
- * main - Entry pont
- *
- * Return: Always 0
- */
-
+*main - Entry pont
+*
+*Return: Always 0
+*/
 int main(void)
 {
 	-putchar('_');
