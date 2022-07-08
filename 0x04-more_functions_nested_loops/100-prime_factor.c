@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <math.h>
+#include <main.h>
 
 /**
  * main - finds and prints the largest prime factor of the number
@@ -27,7 +27,7 @@ int main(void)
 		while (n % i == 0)
 		{
 			max = i;
-			n = n/i;
+			n = n / i;
 		}
 	}
 
