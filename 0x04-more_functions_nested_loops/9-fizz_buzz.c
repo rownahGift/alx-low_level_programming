@@ -2,8 +2,10 @@
 #include <stdio.h>
 
 /**
- * main - prints the numbers from 1 to 100, followed by a new line
- * but for the multiples of three prints Fizz instead of the number
+ * main - prints the numbers from 1 to 100, followed by 
+ * a new line
+ * but for the multiples of three prints Fizz instead of th
+ * e number
  * and for the multiples of five prints Buzzz
  * Return: Always 0 (Sucess)
  */
@@ -34,7 +36,7 @@ int main(void)
 			printf("%d", i);
 		}
 	}
-	printf('\n');
+	printf("\n");
 
 	return (0);
 }
